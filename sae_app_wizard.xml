@@ -1,0 +1,3 @@
+<appwizard><introduction><name></name><author>sitemoni</author><icon></icon><homepage></homepage><description><![CDATA[]]></description></introduction><platform><services><service></service><service>Mysql</service></services><appconfig><tpl><![CDATA[
+
+]]></tpl></appconfig></platform><code><initScript>install/install.php</initScript></code></appwizard>
